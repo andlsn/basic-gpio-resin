@@ -1,7 +1,7 @@
 import RPi.GPIO as GPIO
 from flask import Flask, render_template
 app = Flask(__name__)
-
+/*comment
 yellow = 7
 red = 12
 
