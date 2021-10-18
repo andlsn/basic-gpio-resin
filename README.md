@@ -1,5 +1,5 @@
 # Basic GPIO with Python for Resin
-kommentar
+kommentar 1
 Basic example to control GPIO on the Rasperry Pi using Python
 
 Usage:
